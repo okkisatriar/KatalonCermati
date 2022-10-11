@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a01e0f4-0d4c-4a52-8c4e-84f31d160dec</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.cermati.com'</defaultValue>
+      <description></description>
+      <id>4c31b027-5d0f-4f22-bbce-d66d9778fdd6</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>
